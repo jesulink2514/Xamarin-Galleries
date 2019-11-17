@@ -1,6 +1,5 @@
 # Xamarin Galleries
 
-## GIF
 <html>
   <table style="width:100%">
     <tr>
