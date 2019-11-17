@@ -42,3 +42,13 @@
     </tr>
   </table>
 </html>
+
+## Features
+
+* [FFImageLoading](https://github.com/luberda-molinet/FFImageLoading)
+* [CollectionView](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/collectionview/)
+* [CarouselView](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/carouselview/)
+
+### Youtube video
+
+This is the url for the [Youtube video] (https://youtu.be/GKowCzz9kyo), that shows how the app works.
