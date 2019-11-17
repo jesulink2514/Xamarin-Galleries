@@ -51,4 +51,4 @@
 
 ### Youtube video
 
-This is the url for the [Youtube video] (https://youtu.be/GKowCzz9kyo), that shows how the app works.
+This is the url for the [Youtube video](https://youtu.be/GKowCzz9kyo), that shows how the app works.
