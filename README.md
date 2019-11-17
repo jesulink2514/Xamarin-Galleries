@@ -8,9 +8,9 @@
       <th>AUTO HEIGHT GALLERY</th>
     </tr>
     <tr>
-      <td><img src="https://media.giphy.com/media/3oFzlV5tQhF1udDxIY/giphy.gif"></td>
-      <td><img src="https://media.giphy.com/media/du0akXCuO8BTHzBuat/giphy.gif"></td>
-      <td><img src="https://media.giphy.com/media/1dH0dPqdPHwkDadmAx/giphy.gif"></td>
+      <td><img src="https://github.com/georgemichailou/Xamarin-Galleries/blob/master/images/twocolumns_gallery.jpg"></td>
+      <td><img src="https://github.com/georgemichailou/Xamarin-Galleries/blob/master/images/threecolumns_gallery.jpg"></td>
+      <td><img src="https://github.com/georgemichailou/Xamarin-Galleries/blob/master/images/auto_gallery.jpg"></td>
     </tr>
   </table>
 </html>
@@ -23,9 +23,9 @@
       <th>HORIZONTAL GALLERY</th>
     </tr>
     <tr>
-      <td><img src="https://media.giphy.com/media/SXmXvjNJQMCcWMrvPj/giphy.gif"></td>
-      <td><img src="https://media.giphy.com/media/1dH0dPqdPHwkDadmAx/giphy.gif"></td>
-      <td><img src="https://media.giphy.com/media/SXmXvjNJQMCcWMrvPj/giphy.gif"></td>
+      <td><img src="https://github.com/georgemichailou/Xamarin-Galleries/blob/master/images/standart_gallery.jpg"></td>
+      <td><img src="https://github.com/georgemichailou/Xamarin-Galleries/blob/master/images/vertical_gallery.jpg"></td>
+      <td><img src="https://github.com/georgemichailou/Xamarin-Galleries/blob/master/images/horizontal_gallery.jpg"></td>
     </tr>
   </table>
 </html>
